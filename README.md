@@ -8,5 +8,5 @@ Change username and password (if exist) and your are good to go :)
 Clean up every minute
 
 ``` shell
-* * * * * root ../../posttorrent.sh`
+* * * * * /home/pi/posttorrent.sh`
 ```
