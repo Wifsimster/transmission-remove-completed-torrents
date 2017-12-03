@@ -1,0 +1,7 @@
+# Seetings for Raspbian Jessie 04-12-2017
+
+//192.168.0.22/Downloads	/mnt/downloads		cifs	guest,uid=debian-transmission,rw,user,exec,credentials=/etc/cifspasswd,x-systemd.automount 0	0
+//192.168.0.22/Incompletes	/mnt/incompletes	cifs	guest,uid=debian-transmission,rw,user,exec,credentials=/etc/cifspasswd,x-systemd.automount 0	0
+//192.168.0.22/Movies 		/mnt/movies 		cifs 	guest,uid=debian-transmission,rw,user,exec,credentials=/etc/cifspasswd,x-systemd.automount 0	0
+//192.168.0.22/Musics 		/mnt/musics 		cifs 	guest,uid=debian-transmission,rw,user,exec,credentials=/etc/cifspasswd,x-systemd.automount 0	0
+//192.168.0.22/TV_Shows 	/mnt/tv_shows 		cifs 	guest,uid=debian-transmission,rw,user,exec,credentials=/etc/cifspasswd,x-systemd.automount 0	0
